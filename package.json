@@ -1,0 +1,22 @@
+{
+  "name": "lc_call_number_compare",
+  "version": "0.0.1",
+  "description": "Provides functions to compare and sort Library of Congress Classification (LC) call numbers.",
+  "main": "lib/lc_call_number_compare.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smu-libraries/lc_call_number_compare.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smu-libraries/lc_call_number_compare/issues"
+  },
+  "homepage": "https://github.com/smu-libraries/lc_call_number_compare#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
